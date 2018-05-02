@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2018-04-30T11:54:35Z" finished-at="2018-04-30T11:54:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2018-04-30T11:54:35Z" finished-at="2018-04-30T11:54:35Z">
+      <class name="com.qa.test.Basictest">
+        <test-method status="PASS" signature="Btest()[pri:0, instance:com.qa.test.Basictest@68be2bc2]" name="Btest" is-config="true" duration-ms="7" started-at="2018-04-30T17:24:35Z" finished-at="2018-04-30T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Btest -->
+        <test-method status="PASS" signature="Add()[pri:0, instance:com.qa.test.Basictest@68be2bc2]" name="Add" duration-ms="5" started-at="2018-04-30T17:24:35Z" finished-at="2018-04-30T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+        <test-method status="PASS" signature="Atest()[pri:0, instance:com.qa.test.Basictest@68be2bc2]" name="Atest" is-config="true" duration-ms="1" started-at="2018-04-30T17:24:35Z" finished-at="2018-04-30T17:24:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Atest -->
+      </class> <!-- com.qa.test.Basictest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
